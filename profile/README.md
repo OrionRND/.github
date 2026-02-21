@@ -1,4 +1,4 @@
-# OrionRND Kft.
+# OrionRND Ltd.
 
 IoT and hardware cybersecurity — Hungary.
 
