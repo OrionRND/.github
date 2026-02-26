@@ -1,7 +1,5 @@
 ![OrionRND](https://github.com/OrionRND/.github/blob/main/images/ORION-GITHUB-BANNER-without-logo.jpg) 
 
-IoT and hardware cybersecurity — Hungary.
-
 We do two things: help manufacturers ship secure connected products, and build tooling that makes vulnerability monitoring less painful for the teams operating them.
 
 ---
